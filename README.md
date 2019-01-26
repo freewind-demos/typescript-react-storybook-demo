@@ -5,6 +5,6 @@ Just say hello from react.
 
 ```
 npm install
-npm start
+npm run demo
 ```
 
